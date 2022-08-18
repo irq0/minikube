@@ -4,3 +4,7 @@
 [submodule "hack/benchmark/time-to-k8s/time-to-k8s-repo"]
 	path = hack/benchmark/time-to-k8s/time-to-k8s-repo
 	url = https://github.com/tstromberg/time-to-k8s.git
+[submodule "linux-kernel"]
+	path = deploy/iso/minikube-iso/linux-kernel
+	url = https://github.com/ceph/ceph-client.git
+	branch = wip-fscrypt
