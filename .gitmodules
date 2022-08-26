@@ -6,5 +6,5 @@
 	url = https://github.com/tstromberg/time-to-k8s.git
 [submodule "linux-kernel"]
 	path = deploy/iso/minikube-iso/linux-kernel
-	url = https://github.com/ceph/ceph-client.git
-	branch = wip-fscrypt
+	url = https://git.kernel.org/pub/scm/linux/kernel/git/jlayton/linux.git
+	branch = ceph-fscrypt
